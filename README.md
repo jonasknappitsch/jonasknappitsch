@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonasknappitsch from 🇦🇹 Vienna, living in 🇨🇭 Zurich.
 - 👀 I’m passionate about the intersection of technology, strategy and economics - improving performance outcomes for organisations and shaping the businesses of tomorrow.
-- 🌱 I’m currently learning data visualization and predictive modeling.
+- 🌱 Currently learning data visualization and predictive modelling.
 - 📫 Reach me via knappitsch.j(at)gmail.com
 
 <!---
